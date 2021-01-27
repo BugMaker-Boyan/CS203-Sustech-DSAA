@@ -2,6 +2,8 @@
 // Created by Boyan on 2020/10/6.
 //
 //bubble_sort O(n2)
+
+
 template <typename T>
 void bubble_sort(T array[],int l,int r){
     int n = r-l+1;

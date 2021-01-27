@@ -3,6 +3,7 @@
 //
 
 //insertion_sort O(n2)
+
 template <typename T>
 void insertion_sort(T array[],int l,int r){
     for (int i = l; i <=r ; ++i) {
